@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "629540273768",
+    "project_id": "cloudnote-837d8",
+    "storage_bucket": "cloudnote-837d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629540273768:android:19b0771f2d93c7ec61c5dd",
+        "android_client_info": {
+          "package_name": "com.example.cloudnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629540273768-g0vp89n8bqo7jiphhfsohm1f091d4bti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAr5IzbMHPuWBZu-E9iGiWq4cmtH8BThg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629540273768-g0vp89n8bqo7jiphhfsohm1f091d4bti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629540273768-g978sa3pa55pfs2lg1ubml2tqqs44g2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudnote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
